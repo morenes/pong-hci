@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- 
+Important notice: The tag values c1,c2,c3 are used as sample tag values only, and can be modified to
+reflect the tags that you wish to use.
+
+If you wish to modify this sample:
+
+1. Remove the TagInfoText element and related animations from MainWindow.xaml. 
+   (It is only meant to help you get started with this sample).
+2. Update InstalledAppInfo\ItemCompare.xml
+3. Update ItemCompare.reg
+4. Reinstall the sample (See InstallSamples.bat in the samples folder)
+-->
+
+<!-- Defines the data schema for items, and the property values for each tag. -->
+<ItemData>
+  <!-- The schema. This defines the field names and their data types. -->
+  <Properties>
+    <ItemProperty Name="Description" PropertyType="Text"/>
+    <ItemProperty Name="Features" PropertyType="Text"/>
+    <ItemProperty Name="Photo" PropertyType="Image"/>
+  </Properties>
+
+  <!-- The items. Each supported tag value has one Item entry. -->
+  <Items>
+    <Item Tag="0xD6" Name="Paddle1">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate"/>
+        <ItemValue Name="Description" Value="Paddle of player 1"/>
+        <ItemValue Name="Photo" Value="Resources/P.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0xD7" Name="Paddle2">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can kick the ball"/>
+        <ItemValue Name="Description" Value="Paddle of player 2"/>
+        <ItemValue Name="Photo" Value="Resources/P.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x18" Name="T1a">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate it and set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Triangle"/>
+        <ItemValue Name="Photo" Value="Resources/T.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x19" Name="T1b">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate it and set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Square"/>
+        <ItemValue Name="Photo" Value="Resources/S.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x1A" Name="T1c">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Circle"/>
+        <ItemValue Name="Photo" Value="Resources/C.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x23" Name="T2a">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate it and set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Triangle"/>
+        <ItemValue Name="Photo" Value="Resources/T.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x24" Name="T2b">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate it and set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Square"/>
+        <ItemValue Name="Photo" Value="Resources/S.png"/>
+      </ItemValues>
+    </Item>
+    <Item Tag="0x25" Name="T2c">
+      <ItemValues>
+        <ItemValue Name="Features" Value="You can rotate set the type with the colored buttons"/>
+        <ItemValue Name="Description" Value="Its a Circle"/>
+        <ItemValue Name="Photo" Value="Resources/C.png"/>
+      </ItemValues>
+    </Item>
+  </Items>
+</ItemData>

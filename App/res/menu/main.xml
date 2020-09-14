@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ttui.marcelo.siri.MainActivity" >
+
+    <item
+        android:id="@+id/action_power"
+        android:orderInCategory="100"
+        android:title="@string/action_power"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_play"
+        android:orderInCategory="101"
+        android:title="@string/action_play"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_pause"
+        android:orderInCategory="102"
+        android:title="@string/action_pause"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_surrender"
+        android:orderInCategory="103"
+        android:title="@string/action_surrender"
+        app:showAsAction="never"/>
+
+</menu>

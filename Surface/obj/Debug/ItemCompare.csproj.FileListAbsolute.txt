@@ -1,0 +1,297 @@
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\ItemData.xml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\Product1.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\Product2.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\Product3.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\LaserMouse6000.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\LaserMouse7000.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\ExplorerMouse.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\Resources\compatibility.png
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\bin\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.csprojResolveAssemblyReference.cache
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonCell.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonTable.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompareDictionary.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemVisualization.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\App.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonCell.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonRow.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonTable.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\InformationPanelRow.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemVisualization.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\MainWindow.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\App.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ComparisonRow.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\InformationPanelRow.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\MainWindow.baml
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.g.resources
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.csproj.GenerateResource.Cache
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\SDKSamples\WPF\ItemCompare\obj\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompare\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Mis documentos\Escritorio\ItemCompare\bin\Debug\ItemData.xml
+C:\Mis documentos\Escritorio\ItemCompare\bin\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompare\bin\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.csprojResolveAssemblyReference.cache
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonCell.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonTable.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompareDictionary.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemVisualization.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\App.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonCell.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonTable.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\InformationPanelRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemVisualization.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\MainWindow.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\App.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ComparisonRow.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\InformationPanelRow.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\MainWindow.baml
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.g.resources
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Mis documentos\Escritorio\ItemCompare\obj\Debug\ItemCompare.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare.pdb
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonCell.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonTable.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompareDictionary.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemVisualization.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\App.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonCell.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonRow.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonTable.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\InformationPanelRow.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemVisualization.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\MainWindow.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\App.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Users\test\Desktop\ItemCompare\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Users\test\Desktop\ItemCompare\bin\Debug\ItemData.xml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ComparisonRow.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\InformationPanelRow.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\MainWindow.baml
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare.g.resources
+C:\Users\test\Desktop\ItemCompare\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Users\test\Desktop\ItemCompare\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\test\Desktop\ItemCompare\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\test\Desktop\ItemCompare\bin\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompare\bin\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.csprojResolveAssemblyReference.cache
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonCell.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonTable.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompareDictionary.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemVisualization.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\App.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonCell.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonTable.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\InformationPanelRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemVisualization.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\MainWindow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\App.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Mis documentos\Escritorio\ItemCompareN\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Mis documentos\Escritorio\ItemCompareN\bin\Debug\ItemData.xml
+C:\Mis documentos\Escritorio\ItemCompareN\bin\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompareN\bin\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ComparisonRow.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\InformationPanelRow.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\MainWindow.baml
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.g.resources
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Mis documentos\Escritorio\ItemCompareN\obj\Debug\ItemCompare.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare.pdb
+C:\Users\test\Desktop\ItemCompareN\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Users\test\Desktop\ItemCompareN\bin\Debug\ItemData.xml
+C:\Users\test\Desktop\ItemCompareN\bin\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompareN\bin\Debug\ItemCompare.pdb
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonCell.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonTable.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompareDictionary.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemVisualization.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\App.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonCell.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonRow.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonTable.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\InformationPanelRow.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemVisualization.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\MainWindow.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\App.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ComparisonRow.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\InformationPanelRow.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\MainWindow.baml
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare.g.resources
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\test\Desktop\ItemCompareN\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare.pdb
+C:\Users\test\Desktop\ItemCompareNm\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Users\test\Desktop\ItemCompareNm\bin\Debug\ItemData.xml
+C:\Users\test\Desktop\ItemCompareNm\bin\Debug\ItemCompare.exe
+C:\Users\test\Desktop\ItemCompareNm\bin\Debug\ItemCompare.pdb
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonCell.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonTable.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompareDictionary.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemVisualization.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\App.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonCell.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonRow.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonTable.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\InformationPanelRow.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemVisualization.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\MainWindow.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\App.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ComparisonRow.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\InformationPanelRow.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\MainWindow.baml
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare.g.resources
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\test\Desktop\ItemCompareNm\obj\Debug\GenerateResource.write.1.tlog
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\InstalledAppInfo\AppIcon.png
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\ItemData.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\ItemCompare.exe
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\ItemCompare.pdb
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ITEMCOMPARE.csprojResolveAssemblyReference.cache
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonCell.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonTable.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompareDictionary.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemVisualization.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\App.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonCell.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonTable.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\InformationPanelRow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemVisualization.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\MainWindow.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\App.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.cache
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.lref
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ComparisonRow.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\InformationPanelRow.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\MainWindow.baml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare.g.resources
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare.Properties.Resources.resources
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ITEMCOMPARE.csproj.GenerateResource.Cache
+D:\ItemCompareNm\obj\Debug\ItemCompare.exe
+D:\ItemCompareNm\obj\Debug\ItemCompare.pdb
+D:\ItemCompareNm\bin\Debug\InstalledAppInfo\AppIcon.png
+D:\ItemCompareNm\bin\Debug\ItemData.xml
+D:\ItemCompareNm\bin\Debug\ItemCompare.exe
+D:\ItemCompareNm\bin\Debug\ItemCompare.pdb
+D:\ItemCompareNm\obj\Debug\ComparisonCell.baml
+D:\ItemCompareNm\obj\Debug\ComparisonTable.baml
+D:\ItemCompareNm\obj\Debug\ItemCompareDictionary.baml
+D:\ItemCompareNm\obj\Debug\ItemVisualization.baml
+D:\ItemCompareNm\obj\Debug\App.baml
+D:\ItemCompareNm\obj\Debug\ComparisonCell.g.cs
+D:\ItemCompareNm\obj\Debug\ComparisonRow.g.cs
+D:\ItemCompareNm\obj\Debug\ComparisonTable.g.cs
+D:\ItemCompareNm\obj\Debug\InformationPanelRow.g.cs
+D:\ItemCompareNm\obj\Debug\ItemVisualization.g.cs
+D:\ItemCompareNm\obj\Debug\MainWindow.g.cs
+D:\ItemCompareNm\obj\Debug\App.g.cs
+D:\ItemCompareNm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.cache
+D:\ItemCompareNm\obj\Debug\ItemCompare_MarkupCompile.lref
+D:\ItemCompareNm\obj\Debug\ComparisonRow.baml
+D:\ItemCompareNm\obj\Debug\InformationPanelRow.baml
+D:\ItemCompareNm\obj\Debug\MainWindow.baml
+D:\ItemCompareNm\obj\Debug\ItemCompare.g.resources
+D:\ItemCompareNm\obj\Debug\ItemCompare.Properties.Resources.resources
+D:\ItemCompareNm\obj\Debug\ResolveAssemblyReference.cache
+D:\ItemCompareNm\obj\Debug\GenerateResource.read.1.tlog
+D:\ItemCompareNm\obj\Debug\GenerateResource.write.1.tlog
+D:\ItemCompareNm\bin\Debug\Resources\Back.xml
+D:\ItemCompareNm\bin\Debug\Resources\Enlarge.xml
+D:\ItemCompareNm\bin\Debug\Resources\EnlargeBackwards.xml
+D:\ItemCompareNm\bin\Debug\Resources\Freeze.xml
+D:\ItemCompareNm\bin\Debug\Resources\Move Tangibles.xml
+D:\ItemCompareNm\bin\Debug\Resources\Move TangiblesBackwards.xml
+D:\ItemCompareNm\bin\Debug\Resources\Shrink.xml
+D:\ItemCompareNm\bin\Debug\Resources\ShrinkBackwards.xml
+D:\ItemCompareNm\bin\Debug\Resources\Wall.xml
+D:\ItemCompareNm\bin\Debug\Resources\WallBackwards.xml
+D:\ItemCompareNm\obj\Debug\ItemCompare_Content.g.cs
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Back.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Enlarge.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\EnlargeBackwards.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Freeze.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Move Tangibles.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Move TangiblesBackwards.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Shrink.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\ShrinkBackwards.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\Wall.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\bin\Debug\Resources\WallBackwards.xml
+C:\Mis documentos\Escritorio\ItemCompareNm\obj\Debug\ItemCompare_Content.g.cs
+D:\BattlePongFinal\obj\Debug\ItemCompare.exe
+D:\BattlePongFinal\obj\Debug\ItemCompare.pdb
+D:\BattlePongFinal\bin\Debug\Resources\Back.xml
+D:\BattlePongFinal\bin\Debug\Resources\Enlarge.xml
+D:\BattlePongFinal\bin\Debug\Resources\EnlargeBackwards.xml
+D:\BattlePongFinal\bin\Debug\Resources\Freeze.xml
+D:\BattlePongFinal\bin\Debug\Resources\Move Tangibles.xml
+D:\BattlePongFinal\bin\Debug\Resources\Move TangiblesBackwards.xml
+D:\BattlePongFinal\bin\Debug\Resources\Shrink.xml
+D:\BattlePongFinal\bin\Debug\Resources\ShrinkBackwards.xml
+D:\BattlePongFinal\bin\Debug\Resources\Wall.xml
+D:\BattlePongFinal\bin\Debug\Resources\WallBackwards.xml
+D:\BattlePongFinal\bin\Debug\InstalledAppInfo\AppIcon.png
+D:\BattlePongFinal\bin\Debug\ItemData.xml
+D:\BattlePongFinal\bin\Debug\ItemCompare.exe
+D:\BattlePongFinal\bin\Debug\ItemCompare.pdb
+D:\BattlePongFinal\obj\Debug\ResolveAssemblyReference.cache
+D:\BattlePongFinal\obj\Debug\ComparisonCell.baml
+D:\BattlePongFinal\obj\Debug\ComparisonTable.baml
+D:\BattlePongFinal\obj\Debug\ItemCompareDictionary.baml
+D:\BattlePongFinal\obj\Debug\ItemVisualization.baml
+D:\BattlePongFinal\obj\Debug\App.baml
+D:\BattlePongFinal\obj\Debug\ComparisonCell.g.cs
+D:\BattlePongFinal\obj\Debug\ComparisonRow.g.cs
+D:\BattlePongFinal\obj\Debug\ComparisonTable.g.cs
+D:\BattlePongFinal\obj\Debug\InformationPanelRow.g.cs
+D:\BattlePongFinal\obj\Debug\ItemVisualization.g.cs
+D:\BattlePongFinal\obj\Debug\MainWindow.g.cs
+D:\BattlePongFinal\obj\Debug\App.g.cs
+D:\BattlePongFinal\obj\Debug\ItemCompare_Content.g.cs
+D:\BattlePongFinal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BattlePongFinal\obj\Debug\ItemCompare_MarkupCompile.cache
+D:\BattlePongFinal\obj\Debug\ItemCompare_MarkupCompile.lref
+D:\BattlePongFinal\obj\Debug\ComparisonRow.baml
+D:\BattlePongFinal\obj\Debug\InformationPanelRow.baml
+D:\BattlePongFinal\obj\Debug\MainWindow.baml
+D:\BattlePongFinal\obj\Debug\ItemCompare.g.resources
+D:\BattlePongFinal\obj\Debug\ItemCompare.Properties.Resources.resources
+D:\BattlePongFinal\obj\Debug\GenerateResource.read.1.tlog
+D:\BattlePongFinal\obj\Debug\GenerateResource.write.1.tlog

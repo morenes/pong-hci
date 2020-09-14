@@ -1,0 +1,66 @@
+﻿<s:SurfaceWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    xmlns:ic="clr-namespace:ItemCompare"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    x:Class="ItemCompare.MainWindow"    
+    Title="ItemCompare"
+    TouchMove="SurfaceWindow_TouchMove">
+  <s:SurfaceWindow.Resources>   
+    
+    <!--DEVELOPER: Remove this animation after tags have been assigned-->
+<!--ANIMATION TO DO A TEXT APPEAR AND DISAPPEAR-->
+    <Storyboard x:Key="TagInfoText" SpeedRatio=".2">
+        <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="TagInfoText" Storyboard.TargetProperty="(UIElement.Opacity)">
+            <SplineDoubleKeyFrame KeyTime="00:00:00.4000000" Value="1"/>
+            <SplineDoubleKeyFrame KeyTime="00:00:01.7000000" Value="1"/>
+            <SplineDoubleKeyFrame KeyTime="00:00:02" Value="0"/>
+        </DoubleAnimationUsingKeyFrames>
+    </Storyboard>
+
+  </s:SurfaceWindow.Resources>
+  
+    <s:SurfaceWindow.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource TagInfoText}"/><!--DEVELOPER: Remove this trigger after tags have been assigned-->
+        </EventTrigger>
+    </s:SurfaceWindow.Triggers>
+
+    <Grid x:Name="RootGrid">          
+        <Grid.LayoutTransform>
+            <ScaleTransform ScaleX="1" ScaleY="1"/>
+        </Grid.LayoutTransform>
+      <s:TagVisualizer>
+        <Canvas>
+               <s:TagVisualizerCanvas x:Name="Canv" IsTagVisualizationHost="True">
+              <ic:ItemVisualization x:Name="Paddle1"/>
+              <ic:ItemVisualization x:Name="Paddle2"/>
+              <ic:ItemVisualization x:Name="T1a"/>
+              <ic:ItemVisualization x:Name="T1b"/>
+              <ic:ItemVisualization x:Name="T1c"/>
+              <ic:ItemVisualization x:Name="T2a"/>
+              <ic:ItemVisualization x:Name="T2b"/>
+              <ic:ItemVisualization x:Name="T2c"/>
+          </s:TagVisualizerCanvas>
+          <ic:ComparisonTable
+              x:Name="Table"
+              Visibility="Collapsed"
+              HorizontalAlignment="Left"
+              VerticalAlignment="Top"/>
+                <Rectangle Canvas.Top="250" Canvas.Left="250"  Height="100" Width="100" Name="Player_1_Button"/>
+                <Rectangle Canvas.Top="189" Canvas.Left="1000"  Height="100" Width="100" Name="Player_2_Button"/>
+                <Rectangle Canvas.Top="250" Canvas.Left="250"  Height="0" Width="0" Name="Player_1_Gesture_Input"/>
+                <Rectangle Canvas.Top="189" Canvas.Left="1000"  Height="0" Width="0" Name="Player_2_Gesture_Input"/>
+            </Canvas>
+    </s:TagVisualizer>
+    <!--DEVELOPER: You can change the tags that this application uses
+          by editing ItemData.xml. Remove this RichTextBox if you do so. For additional
+          details, please see comments in ItemData.xml.-->
+    <RichTextBox x:Name="TagInfoText" Style="{StaticResource TagInfoTextStyle}" Width="665">
+      <FlowDocument>
+        <Paragraph LineHeight="17"><Run Text="Use your phone to interact with the App. Collect power-ups and use them from the phone by speech, touch or list. Also you can use them from the surface by gestures."/></Paragraph>
+      </FlowDocument>
+    </RichTextBox>
+  </Grid>
+</s:SurfaceWindow>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ss:ObjectDescriptions  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:ss="http://schemas.microsoft.com/Surface/2010/ObjectDescription">
+
+  <Object Id="Paddle1">
+    <Layout Text="Player1"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xD1" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+
+  <Object Id="Paddle2">
+    <Layout Text="Player2"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xD2" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+
+  <Object Id="T1a">
+    <Layout Text="Triangle"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC1" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+  <Object Id="T1b">
+    <Layout Text="Square"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC2" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+  <Object Id="T1c">
+    <Layout Text="Circle"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC3" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+  <Object Id="T2a">
+    <Layout Text="Triangle"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC4" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+  <Object Id="T2b">
+    <Layout Text="Square"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC5" />
+      </Value
+    </ObjectTagSet>
+  </Object>
+  <Object Id="T2c">
+    <Layout Text="Circle"
+      BoundingBoxWidth="3.5"
+      BoundingBoxHeight="2.0"
+      PhysicalCenterOffsetFromTagX="2.5"
+      PhysicalCenterOffsetFromTagY="-0.5"
+      OrientationOffsetFromTag="-90" />
+    <ObjectTagSet>
+      <Schema>
+        <Single Value="*" />
+      </Schema>
+      <Series>
+        <Single Value="*" />
+      </Series>
+      <ExtendedValue>
+        <Single Value="*" />
+      </ExtendedValue>
+      <Value>
+        <Single Value="0xC6" />
+      </Value>
+    </ObjectTagSet>
+  </Object>
+</ss:ObjectDescriptions>

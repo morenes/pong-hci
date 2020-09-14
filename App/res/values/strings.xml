@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battle-Pong</string>
+    <string name="action_power">Power-ups</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_surrender">Surrender</string>
+
+</resources>
